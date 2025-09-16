@@ -30,4 +30,4 @@ The script works in a few main steps:
 
 **Example:**
 ```matlab
-StainedGlassEffect('anaheim.jpg', 30, 45);
+StainedGlassEffect('Mantis.jpg', 30, 20);
